@@ -15,5 +15,4 @@ import java.util.Optional;
 @Service
 public class PokemonService {
 
-
 }

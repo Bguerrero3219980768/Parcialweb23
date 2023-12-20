@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ParcialFinalWebApplication {
+public class Parcialweb23Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ParcialFinalWebApplication.class, args);
+		SpringApplication.run(Parcialweb23Application.class, args);
 	}
 
 }

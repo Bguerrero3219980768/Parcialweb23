@@ -1,8 +1,7 @@
 package com.example.Parcialweb23.repositories;
 
-import org.springframework.data.jpa.repository.JpaRepository;
-
 import com.example.Parcialweb23.entities.Pueblo;
+import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PuebloRepository extends JpaRepository<Pueblo, Integer> {
 }
